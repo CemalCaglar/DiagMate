@@ -4,10 +4,9 @@ TekTik
 ## Ürün İle İlgili Bilgiler
 
 ### Takım Elemanları
-* **[İsim Soyisim]**: Scrum Master
-* **[İsim Soyisim]**: Product Owner
-* **[İsim Soyisim]**: Developer (Donanım / Gömülü Sistem)
-* **[İsim Soyisim]**: Developer (Yazılım)
+* **Cemal Çağlar Tokköz**: Scrum Master
+* **Cemal Çağlar Tokköz**: Product Owner
+* **Cemal Çağlar Tokköz**: Team Member/Developer
 
 ### Ürün İsmi
 --[Ürün Adı]--

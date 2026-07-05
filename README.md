@@ -46,10 +46,6 @@ Henüz geliştirme aşamasına geçilmemiştir. Hangi No-Code platformunun kulla
 * **Hafta 2 (Gün 5-7):** GitHub reposunun kurulması, README dosyasının şablona uygun hazırlanması, Trello panosunun oluşturulması ve Sprint 1 hedeflerinin tamamlanması.
 <img width="1075" height="514" alt="sprint1-pano" src="https://github.com/user-attachments/assets/526ee66d-bcb3-422f-a1cb-326a7815e3d1" />
 
-## Sprint Notları ve Bağlantıları
-* [Sprint 1](/Sprint-1)
-* [Sprint 2](/Sprint-2)
-* [Sprint 3](/Sprint-3)
 
 ---
 

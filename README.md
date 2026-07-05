@@ -1,5 +1,5 @@
 # Takım İsmi
-[Takım Adınızı Buraya Yazın, örn: Takım F-61 veya Proje Adı]
+TekTik
 
 ## Ürün İle İlgili Bilgiler
 

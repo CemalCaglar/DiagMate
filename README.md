@@ -1,28 +1,27 @@
 # Takım İsmi
-TekTik
+[Takım Adınızı Buraya Yazın, örn: Takım NC-42]
 
 ## Ürün İle İlgili Bilgiler
 
 ### Takım Elemanları
-* **Cemal Çağlar Tokköz**: Scrum Master
-* **Cemal Çağlar Tokköz**: Product Owner
-* **Cemal Çağlar Tokköz**: Team Member/Developer
+* **Cemal Çağlar Tokköz**: Product Owner/Scrum Master/Team Member/Developer
 
 ### Ürün İsmi
-DiagMate
-
+Akıllı Araç Diagnostik ve Bakım Asistanı (Örn: DiagNode AI)
 
 ### Ürün Açıklaması
-Araç sahiplerinin OBD2 cihazlarıyla okudukları hata kodlarını kolayca anlamlandırmasını ve periyodik bakımlarını takip etmesini sağlayan akıllı bir asistan. Yapay zeka destekli altyapısı sayesinde karmaşık teknik terimleri sadeleştirir ve kullanıcıya adım adım çözüm önerileri sunar.
+DiagNode AI, araç sahiplerinin karmaşık arıza süreçlerini şeffaf ve anlaşılır hale getiren No-Code tabanlı akıllı bir mobil asistan uygulamasıdır. Kullanıcıların OBD2 cihazlarıyla okudukları hata kodlarını (örneğin P0171) sisteme girmesiyle, arka planda çalışan yapay zeka modeli bu kodların ne anlama geldiğini, arızanın kritiklik seviyesini ve olası çözüm adımlarını listeler. Ayrıca periyodik bakımların, değişen mekanik parçaların (örn: 2014 Opel Corsa 1.2 Twinport Active - Triger zinciri değişimi) ve lastik durumlarının kaydedilebildiği dijital bir seyir defteri işlevi görerek araç ömrünü ve sürüş güvenliğini maksimize etmeyi hedefler.
 
 ### Ürün Özellikleri
-* [Özellik 1, örn: LoRa modülü ile uzak mesafe haberleşme]
-* [Özellik 2, örn: Gerçek zamanlı sensör veri analizi]
-* [Özellik 3]
+* **YZ Destekli Arıza Çözümleyici:** Girilen OBD2 hata kodunun (Örn: P0171 - Sistem Çok Fakir) Türkçe açıklamasını, olası nedenlerini ve onarım tavsiyelerini listeleme.
+* **Dijital Seyir Defteri (Logbook):** Periyodik bakımlar, değişen mekanik parçalar ve lastik değişim zamanlarının kronolojik olarak saklanması.
+* **Akıllı Hatırlatıcılar:** Yaklaşan bakım kilometreleri, muayene tarihleri veya zaman bazlı parça değişimleri için kullanıcılara bildirim gönderilmesi.
+* **Maliyet Takibi (Opsiyonel):** Araç bakım masraflarının sisteme işlenerek dönemsel maliyet raporlarının oluşturulması.
 
 ### Hedef Kitle
-* [Hedef Kitle 1]
-* [Hedef Kitle 2]
+* Bireysel araç sahipleri ve sürücüler
+* Aracının periyodik bakımını bilinçli ve düzenli takip etmek isteyen teknoloji meraklıları
+* İkinci el araç alım-satımı yapan kullanıcılar (şeffaf bakım geçmişi sunabilmek için)
 
 ### Product Backlog URL
 [Miro, Trello veya GitHub Projects Panonuzun Linki]
@@ -37,4 +36,4 @@ Araç sahiplerinin OBD2 cihazlarıyla okudukları hata kodlarını kolayca anlam
 ---
 
 ## Ürün Görüntüleri / Prototipler
-![Prototip/Şema 1](gorsel_linki_buraya_gelecek)
+![Uygulama Arayüzü veya Prototip](gorsel_linki_buraya_gelecek)

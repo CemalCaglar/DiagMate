@@ -1,7 +1,7 @@
 # Sprint 1 Değerlendirmesi
 
 **Sprint Notları:** 
-Takım arkadaşlarının sürece dahil olmaması nedeniyle Akademi ekibi/danışman ile iletişime geçilmiş ve projeye tek kişi (Cemal Çağlar Tokköz) olarak devam etme kararı alınmıştır. Bu sprintte tamamen altyapı kurulumuna, pazar/ihtiyaç araştırmasına ve proje yönetimi araçlarının yapılandırılmasına odaklanılmıştır.
+Takım arkadaşlarının sürece dahil olmaması nedeniyle Akademi danışman ile iletişime geçilmiş ve projeye tek kişi olarak devam etme kararı alınmıştır. Bu sprintte tamamen altyapı kurulumuna, pazar/ihtiyaç araştırmasına ve proje yönetimi araçlarının yapılandırılmasına odaklanılmıştır.
 
 **Backlog Dağıtma Mantığı ve Story Seçimleri:**
 Projenin tek kişi ile ilerleyecek olması ve danışman yönlendirmesiyle "mezuniyet yeterliliği (MVP)" hedeflendiği için Backlog oldukça kompakt tutulmuştur. İlk sprint için efor, "Proje dokümantasyonu, mimari planlama ve No-Code platform seçimi" olarak belirlenmiştir.

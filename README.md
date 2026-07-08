@@ -49,5 +49,9 @@ Henüz geliştirme aşamasına geçilmemiştir. Hangi No-Code platformunun kulla
 ---
 
 ## Ürün Görüntüleri / Prototipler
+
+
+<img width="593" height="1061" alt="DiagNode Home" src="https://github.com/user-attachments/assets/50065ec7-bc81-4d75-86f0-fe8241715263" />
+
 <img width="593" height="1061" alt="DiagNode ekran" src="https://github.com/user-attachments/assets/f9b0cfdc-c55a-477b-93d3-2cfdb5e2c3ec" />
 

@@ -1,4 +1,4 @@
-<img width="1135" height="638" alt="logo 3" src="https://github.com/user-attachments/assets/83eb7818-05f2-46a0-8c85-fbde29ad4d66" />
+<img width="1467" height="825" alt="logo 1-Photoroom" src="https://github.com/user-attachments/assets/f2c8e2e1-41ea-4632-af02-f1caf7334a82" />
 
 
 # Takım İsmi

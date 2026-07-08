@@ -1,4 +1,4 @@
-<img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/fd628799-dcd3-440a-be59-99fee29ab98e" />
+<img width="1135" height="638" alt="logo 3" src="https://github.com/user-attachments/assets/83eb7818-05f2-46a0-8c85-fbde29ad4d66" />
 
 
 # Takım İsmi

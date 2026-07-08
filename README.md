@@ -1,3 +1,5 @@
+
+<img width="1467" height="825" alt="logo" src="https://github.com/user-attachments/assets/4b8070da-c38b-4075-927e-5846f4aa822a" />
 # Takım İsmi
 CemoTek
 

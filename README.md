@@ -1,4 +1,5 @@
-<img width="1135" height="638" alt="3" src="https://github.com/user-attachments/assets/c0134129-870a-404d-b65e-696fc35c78cd" />
+<img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/fd628799-dcd3-440a-be59-99fee29ab98e" />
+
 
 # Takım İsmi
 CemoTek

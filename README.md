@@ -1,5 +1,4 @@
-<img width="1467" height="825" alt="logo 1-Photoroom" src="https://github.com/user-attachments/assets/f2c8e2e1-41ea-4632-af02-f1caf7334a82" />
-
+<img width="1467" height="825" alt="logo 4" src="https://github.com/user-attachments/assets/be35016c-3ce0-4d58-ae71-37aa0087d23a" />
 
 # Takım İsmi
 CemoTek

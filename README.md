@@ -1,5 +1,5 @@
+<img width="1135" height="638" alt="logo (2)" src="https://github.com/user-attachments/assets/f27d83df-5d2c-459d-9c9c-f999eef51ba9" />
 
-<img width="1467" height="825" alt="logo" src="https://github.com/user-attachments/assets/4b8070da-c38b-4075-927e-5846f4aa822a" />
 # Takım İsmi
 CemoTek
 

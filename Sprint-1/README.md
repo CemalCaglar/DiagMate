@@ -11,7 +11,7 @@ Projenin tek kişi ile ilerleyecek olması ve danışman yönlendirmesiyle "mezu
 * **Sprint Sonunda Tamamlanan Toplam Puan:** 10 Puan
 * **Başarı Oranı:** %100
 
-| Görev / İş Paketi (User Story & Task) | Sorumlu Rol | Durum | Story Point (Efor Puanı) |
+| Görev / İş Paketi | Sorumlu Rol | Durum | Story Point (Efor Puanı) |
 | :--- | :--- | :--- | :---: |
 | Proje fikrinin (DiagNode AI) belirlenmesi ve kapsam analizi | Product Owner | Tamamlandı | 2 Puan |
 | Akademi ekibine solo geliştirici durumunun raporlanması | Scrum Master | Tamamlandı | 1 Puan |

@@ -122,7 +122,8 @@ Uygulamanın temel iskeleti No-Code platformu üzerinde oluşturulmuş ve Google
 ---
 
 ## Ürün Görüntüleri / Prototipler
-<img width="456" height="862" alt="Ekran Alıntısı1" src="https://github.com/user-attachments/assets/c313170e-2f49-4a58-b698-be8ffa673f47" />
-<img width="438" height="858" alt="Ekran Alıntısı2" src="https://github.com/user-attachments/assets/263a0c33-26c9-4d4f-98b5-1b1e583add77" />
+<img width="425" height="856" alt="Ekran Alıntısı1 1" src="https://github.com/user-attachments/assets/9ad3e624-75ef-462b-9e86-7e2f2a3b1bba" />
+
+<img width="412" height="857" alt="Ekran Alıntısı2 2" src="https://github.com/user-attachments/assets/89099310-ef54-4d68-addc-208cba0f710c" />
 
 ---

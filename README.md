@@ -79,3 +79,44 @@ Henüz geliştirme aşamasına geçilmemiştir. Hangi No-Code platformunun kulla
 
 <img width="593" height="1061" alt="DiagNode ekran" src="https://github.com/user-attachments/assets/f9b0cfdc-c55a-477b-93d3-2cfdb5e2c3ec" />
 
+---
+# Sprint 2 Değerlendirmesi
+*(6 Temmuz 2026 - 19 Temmuz 2026)*[cite: 1]
+
+**Sprint Notları:**
+Bu sprintin ana odak noktası, tasarlanan arayüzün No-Code platformuna (Glide) taşınması ve uygulamanın temelini oluşturan "OBD2 Hata Kodları" veritabanının sisteme entegre edilmesidir. Proje yönetimi Scrum metodolojisine uygun olarak güncellenmiş ve görevlere efor (Story Point) atanmıştır.
+
+**Backlog Dağıtma Mantığı ve Story Seçimleri:**
+Sprint 2 için toplam 21 Story Point'lik iş hedeflenmiş olup, bunun 13 puanlık (veritabanı entegrasyonu ve temel iskelet kurulumu) en kritik kısmı başarıyla tamamlanmıştır. MVP sürecinin aksamaması için ağırlık veri altyapısına verilmiştir.
+
+### Sprint 2 Story Point (Efor Puanlaması) Özet
+* **Bu Sprint İçin Hedeflenen Toplam Puan:** 21 Puan
+* **Sprint Sonunda Tamamlanan Toplam Puan:** 13 Puan
+* **Devam Eden Puan:** 8 Puan
+* **Başarı Oranı:** %62
+
+| Görev / İş Paketi | Sorumlu Rol | Durum | Story Point |
+| :--- | :--- | :--- | :---: |
+| OBD2 hata kodları veritabanının (Google Sheets) hazırlanıp bağlanması | Developer | Tamamlandı | 8 Puan |
+| Glide üzerinde projenin temel iskeletinin kurulması | Developer | Tamamlandı | 5 Puan |
+| Dijital Seyir Defteri bakım kayıt formunun tasarlanması | Developer | Devam Ediyor | 5 Puan |
+| UI/UX tasarımının renk ve yerleşim düzenlemeleri | Developer | Devam Ediyor | 3 Puan |
+
+**Sprint Board Update:**
+[Buraya sprint2-pano.png ekran görüntüsünü sürükleyip bırakın][cite: 1]
+
+**Ürün Durumu:**
+Uygulamanın temel iskeleti No-Code platformu üzerinde oluşturulmuş ve Google Sheets üzerinden hata kodları veritabanı başarıyla bağlanmıştır. Arayüzün ince ayarları ve form tasarımları devam etmektedir[cite: 1].
+
+**Daily Scrum Notları:**
+* **Hafta 1:** Veritabanı mimarisinin kurgulanması, kullanılacak hata kodlarının (örn. P0171, P0300) derlenmesi ve tabloya işlenmesi[cite: 1].
+* **Hafta 2:** Glide platformunda projenin ayağa kaldırılması, veritabanı entegrasyonunun test edilmesi ve arayüz çalışmalarına başlanması[cite: 1].
+
+### Sprint 2 Review
+* **Tamamlanan İşler:** Google Sheets kullanılarak OBD2 hata kodları veritabanı oluşturuldu ve No-Code platformuna entegre edildi. Uygulamanın temel navigasyon ve sayfa iskeleti kuruldu[cite: 1].
+* **Gösterilecek Ürün (Increment):** Veritabanından hata kodu okuyabilen temel uygulama iskeleti.
+
+### Sprint 2 Retrospective
+* **İyi Giden Şeyler:** Veritabanı entegrasyonu planlandığı gibi sorunsuz ve hızlı bir şekilde tamamlandı[cite: 1].
+* **Kötü Giden / Geliştirilmesi Gereken Şeyler:** Tasarım ve form entegrasyonu (UI/UX) kısımları planlanan süreyi aştığı için bir sonraki sprinte sarktı[cite: 1].
+* **Sonraki Sprint İçin Aksiyonlar:** Sprint 3 (Son Sprint) içerisinde sarkan tasarım düzenlemeleri hızla tamamlanacak, Opel Corsa üzerinde canlı saha testleri yapılacak ve Bootcamp final teslimi için zorunlu olan 3 dakikalık proje tanıtım videosu çekilecektir[cite: 1].

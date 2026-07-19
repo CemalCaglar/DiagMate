@@ -118,4 +118,4 @@ Uygulamanın temel iskeleti No-Code platformu üzerinde oluşturulmuş ve Google
 ### Sprint 2 Retrospective
 * **İyi Giden Şeyler:** Veritabanı entegrasyonu planlandığı gibi sorunsuz ve hızlı bir şekilde tamamlandı.
 * **Kötü Giden / Geliştirilmesi Gereken Şeyler:** Tasarım ve form entegrasyonu (UI/UX) kısımları planlanan süreyi aştığı için bir sonraki sprinte sarktı.
-* **Sonraki Sprint İçin Aksiyonlar:** Sprint 3 (Son Sprint) içerisinde sarkan tasarım düzenlemeleri hızla tamamlanacak, Opel Corsa üzerinde canlı saha testleri yapılacak ve Bootcamp final teslimi için zorunlu olan 3 dakikalık proje tanıtım videosu çekilecektir.
+* **Sonraki Sprint İçin Aksiyonlar:** Sprint 3 (Son Sprint) içerisinde sarkan tasarım düzenlemeleri hızla tamamlanacak, bir araç üzerinde canlı saha testleri yapılacak ve Bootcamp final teslimi için zorunlu olan 3 dakikalık proje tanıtım videosu çekilecektir.

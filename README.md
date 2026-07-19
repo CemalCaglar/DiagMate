@@ -102,7 +102,7 @@ Sprint 2 için toplam 21 Story Point'lik iş hedeflenmiş olup, bunun 13 puanlı
 | UI/UX tasarımının renk ve yerleşim düzenlemeleri | Developer | Devam Ediyor | 3 Puan |
 
 **Sprint Board Update:**
-[Buraya sprint2-pano.png ekran görüntüsünü sürükleyip bırakın][cite: 1]
+<img width="864" height="729" alt="sprint2-pano" src="https://github.com/user-attachments/assets/5894fd25-ea48-4d53-925b-10cd4452ab90" />
 
 **Ürün Durumu:**
 Uygulamanın temel iskeleti No-Code platformu üzerinde oluşturulmuş ve Google Sheets üzerinden hata kodları veritabanı başarıyla bağlanmıştır. Arayüzün ince ayarları ve form tasarımları devam etmektedir[cite: 1].

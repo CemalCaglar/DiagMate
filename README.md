@@ -105,17 +105,17 @@ Sprint 2 için toplam 21 Story Point'lik iş hedeflenmiş olup, bunun 13 puanlı
 <img width="864" height="729" alt="sprint2-pano" src="https://github.com/user-attachments/assets/5894fd25-ea48-4d53-925b-10cd4452ab90" />
 
 **Ürün Durumu:**
-Uygulamanın temel iskeleti No-Code platformu üzerinde oluşturulmuş ve Google Sheets üzerinden hata kodları veritabanı başarıyla bağlanmıştır. Arayüzün ince ayarları ve form tasarımları devam etmektedir[cite: 1].
+Uygulamanın temel iskeleti No-Code platformu üzerinde oluşturulmuş ve Google Sheets üzerinden hata kodları veritabanı başarıyla bağlanmıştır. Arayüzün ince ayarları ve form tasarımları devam etmektedir.
 
 **Daily Scrum Notları:**
-* **Hafta 1:** Veritabanı mimarisinin kurgulanması, kullanılacak hata kodlarının (örn. P0171, P0300) derlenmesi ve tabloya işlenmesi[cite: 1].
-* **Hafta 2:** Glide platformunda projenin ayağa kaldırılması, veritabanı entegrasyonunun test edilmesi ve arayüz çalışmalarına başlanması[cite: 1].
+* **Hafta 1:** Veritabanı mimarisinin kurgulanması, kullanılacak hata kodlarının (örn. P0171, P0300) derlenmesi ve tabloya işlenmesi.
+* **Hafta 2:** Glide platformunda projenin ayağa kaldırılması, veritabanı entegrasyonunun test edilmesi ve arayüz çalışmalarına başlanması.
 
 ### Sprint 2 Review
-* **Tamamlanan İşler:** Google Sheets kullanılarak OBD2 hata kodları veritabanı oluşturuldu ve No-Code platformuna entegre edildi. Uygulamanın temel navigasyon ve sayfa iskeleti kuruldu[cite: 1].
+* **Tamamlanan İşler:** Google Sheets kullanılarak OBD2 hata kodları veritabanı oluşturuldu ve No-Code platformuna entegre edildi. Uygulamanın temel navigasyon ve sayfa iskeleti kuruldu.
 * **Gösterilecek Ürün (Increment):** Veritabanından hata kodu okuyabilen temel uygulama iskeleti.
 
 ### Sprint 2 Retrospective
-* **İyi Giden Şeyler:** Veritabanı entegrasyonu planlandığı gibi sorunsuz ve hızlı bir şekilde tamamlandı[cite: 1].
-* **Kötü Giden / Geliştirilmesi Gereken Şeyler:** Tasarım ve form entegrasyonu (UI/UX) kısımları planlanan süreyi aştığı için bir sonraki sprinte sarktı[cite: 1].
-* **Sonraki Sprint İçin Aksiyonlar:** Sprint 3 (Son Sprint) içerisinde sarkan tasarım düzenlemeleri hızla tamamlanacak, Opel Corsa üzerinde canlı saha testleri yapılacak ve Bootcamp final teslimi için zorunlu olan 3 dakikalık proje tanıtım videosu çekilecektir[cite: 1].
+* **İyi Giden Şeyler:** Veritabanı entegrasyonu planlandığı gibi sorunsuz ve hızlı bir şekilde tamamlandı.
+* **Kötü Giden / Geliştirilmesi Gereken Şeyler:** Tasarım ve form entegrasyonu (UI/UX) kısımları planlanan süreyi aştığı için bir sonraki sprinte sarktı.
+* **Sonraki Sprint İçin Aksiyonlar:** Sprint 3 (Son Sprint) içerisinde sarkan tasarım düzenlemeleri hızla tamamlanacak, Opel Corsa üzerinde canlı saha testleri yapılacak ve Bootcamp final teslimi için zorunlu olan 3 dakikalık proje tanıtım videosu çekilecektir.
